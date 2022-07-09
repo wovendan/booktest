@@ -1,6 +1,12 @@
 An h1 header
 ============
 
+Dan-check this out cos really I want WYSIWG markdown editting 
+https://github.com/mundimark/awesome-markdown-editors
+trying 
+https://ckeditor.com/github-writer/#:~:text=A%20WYSIWYG%20editor%20for%20GitHub,%2C%20pull%20requests%2C%20and%20wikis. 
+
+
 Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
@@ -23,6 +29,7 @@ Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
 in chapters 12--14"). Three dots ... will be converted to an ellipsis.
 Unicode is supported. ☺
 
+![Snap 2021-11-10, 23_18_46](https://user-images.githubusercontent.com/6609232/178114966-1c60cf3d-db9f-491c-90d4-4ddb89908f84.jpg)
 
 
 An h2 header
